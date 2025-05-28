@@ -1,4 +1,6 @@
-# 💀<h3>Ransomware Lazy</h3>
+# 💀 System Lock
+
+<h3>Ransomware Lazy</h3>
 
 > ⚠️ **Peringatan:** Proyek ini adalah simulasi dan dokumentasi dari sebuah ransomware yang kompleks. Semua eksperimen hanya boleh dilakukan di lingkungan tertutup dan legal, seperti sandbox atau VM penelitian.
 
