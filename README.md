@@ -46,6 +46,10 @@
 
 ---
 
+## Clone C2C Panel
+👁️ [Kunjungi Repository GitHub](https://github.com/RedTeamSector7/lazy-server)
+
+
 ## 🧪 Mode Operasi
 
 - **Silent Execution**: Tidak menampilkan konsol jika dijalankan dari `.exe`
