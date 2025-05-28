@@ -1,6 +1,7 @@
 Ransomware Lazy <br>
 encryption Aes Rsa Cbc 256<br>
 fitur :<br>
+UAC & antivirus bypass Registry<br>
 connect server C2C<br>
 add startup file<br>
 keylogger<br>
