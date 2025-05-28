@@ -1,4 +1,4 @@
-# 🛑 Ransomware Lazy
+# 💀Ransomware Lazy
 
 > ⚠️ **Peringatan:** Proyek ini adalah simulasi dan dokumentasi dari sebuah ransomware yang kompleks. Semua eksperimen hanya boleh dilakukan di lingkungan tertutup dan legal, seperti sandbox atau VM penelitian.
 
