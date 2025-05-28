@@ -73,7 +73,7 @@ Segala penyalahgunaan untuk tujuan kriminal atau distribusi ilegal dapat dikenai
 
 ## 🧑‍💻 Kontributor
 
-- **Nama:** [Anonim / Peneliti Keamanan]
+- **Nama:** [Anonim]
 - **Tujuan:** Edukasi & riset keamanan ofensif
 
 ---
