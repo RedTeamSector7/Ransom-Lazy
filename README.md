@@ -1,4 +1,5 @@
-Ransomware Lazy encryption Aes Rsa Cbc 256
+Ransomware Lazy <br>
+encryption Aes Rsa Cbc 256<br>
 fitur :
 connect server
 add startup file
