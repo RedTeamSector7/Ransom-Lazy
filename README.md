@@ -34,7 +34,7 @@
 | 🧾 **Show Ransom Note**  | Menampilkan pesan tebusan menggunakan GUI                                |
 | 📤 **Data Exfiltration** | Mengunggah file target ke server remote (mengunduh salinan korban)       |
 | 💻 **send_info_device**  | Mengirim informasi sistem: IP, lokasi, OS, antivirus, user, dll.         |
-| 🧭 **Panel Admin**       | Mendukung integrasi dengan backend/admin panel berbasis Flask/Django     |
+| 🧭 **Panel Admin**       | Mendukung integrasi dengan backend/admin panel                           |
 
 ---
 
