@@ -75,7 +75,7 @@ Segala penyalahgunaan untuk tujuan kriminal atau distribusi ilegal dapat dikenai
 
 ## 🧑‍💻 Kontributor
 
-- **Nama:** [Lynx Saiko]
+- **Nama:** Lynx Saiko
 - **Tujuan:** Edukasi & riset keamanan ofensif
 
 ---
